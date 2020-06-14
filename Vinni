@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Vineetha</title>
+	<style>
+		.wrapper{
+			display: grid;
+			grid-template-columns: 40% 40% 40%;
+			grid-gap:1em;
+		}
+		.wrapper > div{
+			background: #eee;
+			padding: 1em;
+		}
+		.wrapper > div:nth-child(odd){
+			background: #ddd;
+		}
+		
+	</style>
+</head>
+<body>
+	<h1>Our Menu</h1>
+	<div class="wrapper">
+			<div>Chicken<p>Healthy kids' menus. Growing awareness of the rise in childhood obesity2﻿ has prompted a new wave of healthy children's menus. Though many restaurants still offer "kid food" such as mac and cheese, pizza, or fried chicken strips, others are finding ways to introduce young diners to a greater variety of dishes, including more produce. Hummus with vegetables for dipping, fruit salads, whole grain pasta, and roasted vegetable chips are all ways to update your own children's menu so it appeals to health-conscious parents as well as to kids. Even fast-food restaurants now offer many healthy food options for kids, such as grilled chicken wraps, yogurt, and apple slices</p></div>
+		<div>Mutton<p>Classic comfort food. Meatloaf, shepherd's pie, pot roast and gravy, and macaroni and cheese have been featured on restaurant menus for decades. Customers enjoy the experience of dining on comforting, home-cooked food that they don't have to prepare themselves. The mass appeal of savory, filling foods that remind customers of home and childhood isn’t likely to disappear any time soon.</p></div>
+		<div>Beef<p>Classic comfort food. Meatloaf, shepherd's pie, pot roast and gravy, and macaroni and cheese have been featured on restaurant menus for decades. Customers enjoy the experience of dining on comforting, home-cooked food that they don't have to prepare themselves. The mass appeal of savory, filling foods that remind customers of home and childhood isn’t likely to disappear any time soon.</p></div>
+	</div>
+
+
+
+</body>
+</html>
